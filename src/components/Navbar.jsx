@@ -82,7 +82,7 @@ const Navbar = () =>
                                 <Span>
                                     <Link style={navLinks} to='/'>Our Portfolio</Link>
                                     <Link style={navLinks} to='/about'>About Us</Link>
-                                    <Link id='last-child' style={navLinks} to='/contact'>Contact</Link>
+                                    <Link id='last-child' style={navLinks} to='/contacts'>Contacts</Link>
                                 </Span>
                             </Nav>
                         </RightCol>

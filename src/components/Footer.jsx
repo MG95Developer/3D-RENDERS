@@ -35,14 +35,6 @@ const RightCol = styled.div`
 const FullWidthCol = styled.div`
     ${ navbar( { display: 'flex', justifyContent: 'center', padding: '1em' } ) }
 `
-const Credits = styled.p`
-  text-align: left;
-  margin-top: 1em;
-  color: black;
-  font-size: 16px;
-  opacity: .5;
-  ${ navbar( { textAlign: 'center', marginTop: '5.6em' } ) }
-`
 
 const Div = styled.div``
 
